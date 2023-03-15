@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Kfir Zilbernagel
+I am a Computer science & data science and ML student 2nd year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-
-
-
+- :zap:Worked as a professional ecommerce seller.
+- :mailbox:How to reach me: kfirul14@gmail.com
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kfirul&theme=dark&background=000000)](https://git.io/streak-stats)
 
