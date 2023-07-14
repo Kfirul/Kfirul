@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Kfir Zilbernagel
-I am a Computer science & data science and ML student 2nd year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Computer science & Data science & ML student 2nd year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :zap:Worked as a professional ecommerce seller.
 - :mailbox:How to reach me:
