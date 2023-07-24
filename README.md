@@ -27,7 +27,7 @@ I am a Computer science & Data science & ML student 2nd year <img src="https://m
 ### My main projects
 Sure, I can help you complete and enhance the provided text. Here's the updated version:
 
-- 🏀: <a href="https://github.com/Kfirul/NBA-Hall-Of-Fame">NBA - Hall Of Fame Predict</a> - Predicting which players will enter the Hall of Fame.
+- 🏀: <a href="https://github.com/Kfirul/NBA-Hall-Of-Fame">NBA - Hall Of Fame Prediction</a> - Predicting which players will enter the Hall of Fame.
 
 - 👨‍💻: <a href="https://github.com/Kfirul/Data-Science-Projects">Data-Science-Projects</a> - A collection of data science projects, including improvements to NBA-HOF prediction, Fashion MNIST, and Dogs vs. Cats.
 
