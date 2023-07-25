@@ -24,7 +24,7 @@ I am a Computer science & Data science & ML student 2nd year <img src="https://m
  
 </div>
 
-### My main projects
+### My main projects :
 
 - 🏀: <a href="https://github.com/Kfirul/NBA-Hall-Of-Fame">NBA - Hall Of Fame Prediction</a> - Predicting which players will enter the Hall of Fame.
 
