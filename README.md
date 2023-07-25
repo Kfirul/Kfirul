@@ -28,7 +28,7 @@ I am a Computer science & Data science & ML student 2nd year <img src="https://m
 
 - 🏀: <a href="https://github.com/Kfirul/NBA-Hall-Of-Fame">NBA - Hall Of Fame Prediction</a> - Predicting which players will enter the Hall of Fame.
 
-- 👨‍💻: <a href="https://github.com/Kfirul/Data-Science-Projects">Data-Science-Projects</a> - A collection of data science projects, including improvements to NBA-HOF prediction, Fashion MNIST, and Dogs vs. Cats.
+- 👨‍💻: <a href="https://github.com/Kfirul/Data-Science-Projects">Data-Science-Projects</a> - A collection of data science projects, including improvements to NBA-HOF prediction, Fashion MNIST, Dogs vs. Cats and Kid's Drawing.
 
 - 🥅: <a href="https://github.com/Kfirul/Bayesian-Network">Bayesian-Network</a> - Implementing Bayesian networks and various algorithms.
 
