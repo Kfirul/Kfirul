@@ -6,6 +6,13 @@ I am a Computer science & Data science & ML student 2nd year <img src="https://m
 -  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfirul14@gmail.com)
   
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kfir-zilbernagel)
+### My main projects :
+
+- 🏀: <a href="https://github.com/Kfirul/NBA-Hall-Of-Fame">NBA - Hall Of Fame Prediction</a> - Predicting which players will enter the Hall of Fame.
+
+- 👨‍💻: <a href="https://github.com/Kfirul/Data-Science-Projects">Data-Science-Projects</a> - A collection of data science projects, including improvements to NBA-HOF prediction, Fashion MNIST, Dogs vs. Cats and Kid's Drawing.
+
+- 🥅: <a href="https://github.com/Kfirul/Bayesian-Network">Bayesian-Network</a> - Implementing Bayesian networks and various algorithms.
                           
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kfirul&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -24,11 +31,5 @@ I am a Computer science & Data science & ML student 2nd year <img src="https://m
  
 </div>
 
-### My main projects :
 
-- 🏀: <a href="https://github.com/Kfirul/NBA-Hall-Of-Fame">NBA - Hall Of Fame Prediction</a> - Predicting which players will enter the Hall of Fame.
-
-- 👨‍💻: <a href="https://github.com/Kfirul/Data-Science-Projects">Data-Science-Projects</a> - A collection of data science projects, including improvements to NBA-HOF prediction, Fashion MNIST, Dogs vs. Cats and Kid's Drawing.
-
-- 🥅: <a href="https://github.com/Kfirul/Bayesian-Network">Bayesian-Network</a> - Implementing Bayesian networks and various algorithms.
 
