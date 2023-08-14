@@ -24,7 +24,7 @@
         <li>🏀: <a href="https://github.com/Kfirul/NBA-Hall-Of-Fame">NBA - Hall Of Fame Prediction</a> - Predicting which players will enter the Hall of Fame.</li>
         <li>👨‍💻: <a href="https://github.com/Kfirul/Data-Science-Projects">Data-Science-Projects</a> - A collection of data science projects, including improvements to NBA-HOF prediction, Fashion MNIST, Dogs vs. Cats, and Kid's Drawing.</li>
         <li>🥅: <a href="https://github.com/Kfirul/Bayesian-Network">Bayesian-Network</a> - Implementing Bayesian networks and various algorithms.</li>
-        <li>🦈 <a href="https://github.com/Kfirul/Computers-Network">Computers-Network</a> - Utilize a traffic application to categorize distinct messaging groups </li>
+        <li>🦈 <a href="https://github.com/Kfirul/Computers_Network_Final_Project">Computers-Network</a> - Utilize a traffic application to categorize distinct messaging groups </li>
       </ul>
     </td>
   </tr>
