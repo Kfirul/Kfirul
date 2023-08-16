@@ -9,7 +9,7 @@
       <h3>About me:</h3>
       <p style="font-size: 18px;">I am a Computer Science & Data Science & ML student in my 2nd year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
       <ul>
-        <li>:zap: Worked as a professional ecommerce seller.</li>
+        <li>:zap: Worked as a professional E-commerce seller.</li>
         <li>:mailbox: How to reach me:
           <ul>
             <li><a href="mailto:kfirul14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></li>
