@@ -36,6 +36,7 @@
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="http://3con14.biz/code/_data/js/intro/js-logo.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="50" height="50"/></a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
