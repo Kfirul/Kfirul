@@ -21,9 +21,10 @@
     <td>
       <h3>My main projects:</h3>
       <ul>
-        <li>🛡️: <a href="https://github.com/Kfirul/Guards-List">Guards-List</a> - Automatic placement operation for guards positions for soldiers and security guards.</li>
+        <li>📚: <a href="https://github.com/Kfirul/Swipe-N-Borrow">Swipe-N-Borrow</a> - Swipe-N-Borrow is an Android app designed to streamline the process of borrowing and lending books.</li>
         <li>🏀: <a href="https://github.com/Kfirul/NBA-Hall-Of-Fame">NBA - Hall Of Fame Prediction</a> - Predicting which players will enter the Hall of Fame.</li>
         <li>👨‍💻: <a href="https://github.com/Kfirul/Data-Science-Projects">Data-Science-Projects</a> - A collection of data science projects, including improvements to NBA-HOF prediction, Fashion MNIST, Dogs vs. Cats, and Kid's Drawing.</li>
+        <li>🛡️: <a href="https://github.com/Kfirul/Guards-List">Guards-List</a> - Automatic placement operation for guards positions for soldiers and security guards.</li>
         <li>🥅: <a href="https://github.com/Kfirul/Bayesian-Network">Bayesian-Network</a> - Implementing Bayesian networks and various algorithms.</li>
         <li>🦈: <a href="https://github.com/Kfirul/Computers_Network_Final_Project">Computers-Network</a> - Utilize a traffic application to categorize distinct messaging groups </li>
       </ul>
@@ -47,6 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="neo4j" alt="neo4j" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="androidstudio" alt="androidstudio" width="50" height="50"/>&nbsp;
 
 </div>
 <div align="center">
