@@ -7,8 +7,9 @@
   <tr>
     <td>
       <h3>About me:</h3>
-      <p style="font-size: 18px;">I am a Computer Science & Data Science & ML student in my 3rd year <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+      <p style="font-size: 18px;">I am graduate in Computer Science & Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
       <ul>
+        <li>⚽: Working as sport statication.</li>
         <li>:zap: Worked as a professional E-commerce seller.</li>
         <li>:mailbox: How to reach me:
           <ul>
